@@ -3,7 +3,7 @@
 ## 📖 Descrição do Projeto ##
 > **Verifica a utilização de CPU e memória RAM de um ou mais containers *Docker* a partir de uma(s) imagem/imagens especificada(s) e escreve em um arquivo `.csv`.**
 > <br />
-> **Caso gere vários arquivos `.csv`, você pode mesclá-los utilizando o [csv-merge](https://github.com/AllanCapistrano/csv-merge).**
+> **Você pode mesclar os arquivos `.csv` utilizando o [csv-merge](https://github.com/AllanCapistrano/csv-merge).**
 
 ### 📦 Dependências: ###
 - [Command](https://pypi.org/project/Command/)
