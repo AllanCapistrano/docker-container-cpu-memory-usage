@@ -34,7 +34,7 @@
    python3 src/main.py
    ```
 
-### Variáveis de amviente
+### Variáveis de ambiente
 - `HEADER`: Lista contendo o cabeçalho da tabela. 
    - Obs: é necessário seguir o padrão definido no arquivo `.env.example`;
 - `IMAGE_NAMES`: Lista contendo o nome da(s) imagem/imagens *Docker* que se deseja monitorar;
